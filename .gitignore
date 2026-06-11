@@ -1,0 +1,6 @@
+/routing/__pycache__
+/routing/management/__pycache__
+/routing/management/commands/__pycache__
+/routing/migrations/__pycache__
+/venv
+/fuel_route_api/__pycache__
